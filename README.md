@@ -13,7 +13,7 @@ Head CBCT Tooth segmentation, STS3D2023 DataSet，Deep Learnning
 
 # Support
 1. At present, the training model has over 2000 CBCT data and supports CBCT tooth segmentation collected by almost all devices on the market. It has high accuracy, full segmentation, and good edge effects.
-2. Friends who need labels for all STS3D2023 DataSets can contact me, but it's not free.
+2. Friends who need labels for all STS3D2023 DataSets can contact me, but it's not free(Only limited to the labels of the data, the data is irrelevant to me).
 3. If you need to annotate a large amount of your own data, you can also contact me, but it is not free.
 4. After observing the visualization effects extensively, I have found that automatic model annotation is far better than manual annotation, and manual annotation is basically unable to achieve smoothness and edge accuracy.
 
