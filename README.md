@@ -8,6 +8,7 @@ Head CBCT Tooth segmentation, STS3D2023 DataSet，Deep Learnning
 
 # Tooth model effect:
 ![1](https://github.com/user-attachments/assets/928b7e9e-fea6-4a61-9c02-b245c235ab77)
+![2](https://github.com/user-attachments/assets/d6e097cf-e86b-41df-819b-9dbf9ecdb2c4)
 
 
 # Support
