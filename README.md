@@ -7,8 +7,11 @@ Head CBCT Tooth segmentation, STS3D2023 DataSet，Deep Learnning
 3. We have trained CBCT on teeth, mandible, and neural tubes using the most advanced deep learning methods currently available, and can be said to have achieved the best results on the market.
 
 # Tooth model effect:
-![1](https://github.com/user-attachments/assets/928b7e9e-fea6-4a61-9c02-b245c235ab77)
-![2](https://github.com/user-attachments/assets/d6e097cf-e86b-41df-819b-9dbf9ecdb2c4)
+![1](https://github.com/user-attachments/assets/dc82a0f5-8121-472b-abb5-e5613386ef70)
+![2](https://github.com/user-attachments/assets/bc8d3e7b-d376-4d3d-99d7-7fd3efe7a6cf)
+![3](https://github.com/user-attachments/assets/7a240b34-65ec-43b0-8fbc-9587c1fecaa9)
+![4](https://github.com/user-attachments/assets/30cda695-633d-4fed-a50b-93c4153e0a77)
+![5](https://github.com/user-attachments/assets/d6e097cf-e86b-41df-819b-9dbf9ecdb2c4)
 
 
 # Support
